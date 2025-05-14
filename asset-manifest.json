@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62015263.css",
+    "main.js": "/static/js/main.8f5d4e1f.js",
+    "static/js/453.e336e734.chunk.js": "/static/js/453.e336e734.chunk.js",
+    "static/media/gallery2.jpg": "/static/media/gallery2.c9ea89c5273bc0416221.jpg",
+    "static/media/gallery1.jpg": "/static/media/gallery1.06c6e72739d071880bdd.jpg",
+    "static/media/hostel-logo.png": "/static/media/hostel-logo.e4f0362af10ff5606c7c.png",
+    "static/media/student1.jpg": "/static/media/student1.691d3c12ed5921cc2135.jpg",
+    "static/media/gallery3.jpg": "/static/media/gallery3.fff47e46b31ea081db06.jpg",
+    "static/media/gallery4.jpg": "/static/media/gallery4.6031e6eea2c6e86ff98f.jpg",
+    "static/media/student2.jpg": "/static/media/student2.5db2d0c96393bbecaab5.jpg",
+    "static/media/student3.jpg": "/static/media/student3.1368fb121e1fc3967417.jpg",
+    "index.html": "/index.html",
+    "main.62015263.css.map": "/static/css/main.62015263.css.map",
+    "main.8f5d4e1f.js.map": "/static/js/main.8f5d4e1f.js.map",
+    "453.e336e734.chunk.js.map": "/static/js/453.e336e734.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62015263.css",
+    "static/js/main.8f5d4e1f.js"
+  ]
+}
