@@ -1,0 +1,511 @@
+2025-03-18 04:08:47:847 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-18 04:08:47:847 [31merror[39m: [31mError connecting to database: database "hostel_management" does not exist[39m
+2025-03-18 04:09:27:927 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-18 04:09:27:927 [31merror[39m: [31mError connecting to database: database "hostel_management" does not exist[39m
+2025-03-18 04:10:47:1047 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-18 04:10:47:1047 [32minfo[39m: [32mDatabase hostel_management does not exist. Creating it now...[39m
+2025-03-18 04:10:48:1048 [32minfo[39m: [32mDatabase hostel_management created successfully[39m
+2025-03-18 04:10:48:1048 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-18 04:10:48:1048 [31merror[39m: [31mError initializing database schema: column "room_number" does not exist[39m
+2025-03-18 04:14:15:1415 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-18 04:14:15:1415 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-18 04:15:46:1546 [31merror[39m: [31mError fetching notices: column n.admin_id does not exist[39m
+2025-03-18 04:15:46:1546 [31merror[39m: [31mError fetching notices: column n.admin_id does not exist[39m
+2025-03-18 04:17:19:1719 [31merror[39m: [31mError registering admin: column "name" of relation "admins" does not exist[39m
+2025-03-18 04:17:57:1757 [31merror[39m: [31mError registering admin: column "name" of relation "admins" does not exist[39m
+2025-03-18 04:25:47:2547 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-18 04:25:47:2547 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-18 04:26:39:2639 [31merror[39m: [31mError fetching notices: column n.admin_id does not exist[39m
+2025-03-18 04:26:39:2639 [31merror[39m: [31mError fetching notices: column n.admin_id does not exist[39m
+2025-03-27 21:38:13:3813 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 21:38:13:3813 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 21:45:49:4549 [31merror[39m: [31mError fetching notices: column n.admin_id does not exist[39m
+2025-03-27 21:45:49:4549 [31merror[39m: [31mError fetching notices: column n.admin_id does not exist[39m
+2025-03-27 21:48:26:4826 [31merror[39m: [31mError fetching notices: column n.admin_id does not exist[39m
+2025-03-27 21:48:26:4826 [31merror[39m: [31mError fetching notices: column n.admin_id does not exist[39m
+2025-03-27 22:06:31:631 [31merror[39m: [31mError fetching notices: column n.admin_id does not exist[39m
+2025-03-27 22:06:31:631 [31merror[39m: [31mError fetching notices: column n.admin_id does not exist[39m
+2025-03-27 22:10:47:1047 [31merror[39m: [31mError registering admin: column "updated_at" of relation "admins" does not exist[39m
+2025-03-27 22:11:24:1124 [31merror[39m: [31mError registering admin: column "updated_at" of relation "admins" does not exist[39m
+2025-03-27 22:20:50:2050 [31merror[39m: [31mError registering admin: column "updated_at" of relation "admins" does not exist[39m
+2025-03-27 22:35:27:3527 [31merror[39m: [31mError registering admin: column "updated_at" of relation "admins" does not exist[39m
+2025-03-27 23:01:04:14 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:01:04:14 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:01:59:159 [31merror[39m: [31mError registering student: column "id" does not exist[39m
+2025-03-27 23:01:59:159 [31merror[39m: [31mError registering admin: column "updated_at" of relation "admins" does not exist[39m
+2025-03-27 23:04:09:49 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:04:10:410 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:04:10:410 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:04:19:419 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:04:19:419 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:04:49:449 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:04:49:449 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:04:58:458 [31merror[39m: [31mError registering student: column "id" does not exist[39m
+2025-03-27 23:04:58:458 [31merror[39m: [31mError registering admin: column "updated_at" of relation "admins" does not exist[39m
+2025-03-27 23:05:20:520 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:05:20:520 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:05:30:530 [31merror[39m: [31mError registering student: column "id" does not exist[39m
+2025-03-27 23:05:30:530 [31merror[39m: [31mError registering admin: column "updated_at" of relation "admins" does not exist[39m
+2025-03-27 23:06:47:647 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:06:47:647 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:07:05:75 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:07:05:75 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:07:21:721 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:07:21:721 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:11:05:115 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:11:05:115 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:20:35:2035 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:20:35:2035 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:36:22:3622 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:36:22:3622 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:36:33:3633 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:36:33:3633 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:36:45:3645 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:36:45:3645 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:36:51:3651 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:36:51:3651 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:36:58:3658 [32minfo[39m: [32mGenerated new student ID: MVGR2025001[39m
+2025-03-27 23:37:13:3713 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:37:13:3713 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:37:23:3723 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:37:23:3723 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:38:52:3852 [32minfo[39m: [32mGenerated new student ID: MVGR2025002[39m
+2025-03-27 23:39:17:3917 [31merror[39m: [31mError creating maintenance request: insert or update on table "maintenance_requests" violates foreign key constraint "maintenance_requests_room_number_fkey"[39m
+2025-03-27 23:40:23:4023 [31merror[39m: [31mError fetching notices: column a.id does not exist[39m
+2025-03-27 23:40:24:4024 [31merror[39m: [31mError fetching notices: column a.id does not exist[39m
+2025-03-27 23:41:37:4137 [33mwarn[39m: [33mFailed admin login attempt for email: saisampathnaramsetty@gmail.com[39m
+2025-03-27 23:42:38:4238 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:42:38:4238 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:42:47:4247 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:42:47:4247 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:42:52:4252 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:42:52:4252 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:43:54:4354 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:43:54:4354 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:44:14:4414 [33mwarn[39m: [33mFailed admin login attempt for email: admin@hostel.com[39m
+2025-03-27 23:44:27:4427 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:44:27:4427 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:44:36:4436 [33mwarn[39m: [33mFailed admin login attempt for email: admin@hostel.com[39m
+2025-03-27 23:44:46:4446 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:44:46:4446 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:44:49:4449 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:44:49:4449 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:45:13:4513 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:45:13:4513 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:45:54:4554 [31merror[39m: [31mError fetching rooms: column r.status does not exist[39m
+2025-03-27 23:45:54:4554 [31merror[39m: [31mError fetching rooms: column r.status does not exist[39m
+2025-03-27 23:46:12:4612 [31merror[39m: [31mError fetching rooms: column r.status does not exist[39m
+2025-03-27 23:46:12:4612 [31merror[39m: [31mError fetching rooms: column r.status does not exist[39m
+2025-03-27 23:47:02:472 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:47:02:472 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:47:12:4712 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:47:12:4712 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:47:26:4726 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:47:26:4726 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:47:28:4728 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:47:28:4728 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:47:42:4742 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:47:42:4742 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:47:58:4758 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:47:58:4758 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:49:08:498 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:49:08:498 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:49:22:4922 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:49:22:4922 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:49:33:4933 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:49:33:4933 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:49:48:4948 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:49:48:4948 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:50:16:5016 [33mwarn[39m: [33mRoute not found: /api/students/MVGR2025001/status[39m
+2025-03-27 23:50:56:5056 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:50:56:5056 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:51:14:5114 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:51:14:5114 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:51:28:5128 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:51:28:5128 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:51:51:5151 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:51:51:5151 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:52:41:5241 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:52:41:5241 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:53:11:5311 [31merror[39m: [31mError fetching maintenance requests: column s.id does not exist[39m
+2025-03-27 23:53:11:5311 [31merror[39m: [31mError fetching maintenance requests: column s.id does not exist[39m
+2025-03-27 23:54:33:5433 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:54:33:5433 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:54:56:5456 [31merror[39m: [31mError fetching leave requests: column s.id does not exist[39m
+2025-03-27 23:54:56:5456 [31merror[39m: [31mError fetching leave requests: column s.id does not exist[39m
+2025-03-27 23:56:26:5626 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-27 23:56:26:5626 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-27 23:57:59:5759 [31merror[39m: [31mError creating maintenance request: insert or update on table "maintenance_requests" violates foreign key constraint "maintenance_requests_room_number_fkey"[39m
+2025-03-28 00:00:33:033 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:00:33:033 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:01:44:144 [31merror[39m: [31mError creating leave request: column "leave_type" of relation "leave_requests" does not exist[39m
+2025-03-28 00:04:49:449 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:04:49:449 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:11:17:1117 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:11:17:1117 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:16:51:1651 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:16:51:1651 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:17:03:173 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:17:03:173 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:17:08:178 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:17:08:178 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:17:21:1721 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:17:21:1721 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:17:21:1721 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:17:21:1721 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:17:21:1721 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:17:21:1721 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:17:31:1731 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:17:31:1731 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:17:31:1731 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:17:54:1754 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:17:54:1754 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:17:54:1754 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:17:54:1754 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:17:54:1754 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:17:54:1754 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:18:23:1823 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:18:23:1823 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:18:23:1823 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:18:23:1823 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:18:23:1823 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:18:23:1823 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:18:44:1844 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:18:44:1844 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:18:44:1844 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:18:44:1844 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:18:44:1844 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:18:44:1844 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:19:09:199 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:19:09:199 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:19:09:199 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:19:33:1933 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:19:33:1933 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:19:33:1933 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:19:33:1933 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:19:33:1933 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:19:33:1933 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:19:48:1948 [31merror[39m: [31mError assigning room: column "r.room_id" must appear in the GROUP BY clause or be used in an aggregate function[39m
+2025-03-28 00:21:32:2132 [31merror[39m: [31mError assigning room: column "r.room_id" must appear in the GROUP BY clause or be used in an aggregate function[39m
+2025-03-28 00:21:42:2142 [31merror[39m: [31mError assigning room: column "r.room_id" must appear in the GROUP BY clause or be used in an aggregate function[39m
+2025-03-28 00:22:17:2217 [31merror[39m: [31mError assigning room: column "r.room_id" must appear in the GROUP BY clause or be used in an aggregate function[39m
+2025-03-28 00:22:58:2258 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:22:58:2258 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:22:58:2258 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:23:26:2326 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:23:26:2326 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:23:26:2326 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:23:26:2326 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:23:26:2326 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:23:26:2326 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:25:47:2547 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:25:47:2547 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:25:47:2547 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:25:47:2547 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:25:47:2547 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:25:47:2547 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:26:04:264 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:26:04:264 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:26:04:264 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:28:46:2846 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:28:46:2846 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:28:46:2846 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:28:46:2846 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:28:46:2846 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:28:46:2846 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:29:19:2919 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:29:19:2919 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:29:19:2919 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:29:19:2919 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:29:19:2919 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:29:19:2919 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:29:31:2931 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:29:31:2931 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:29:31:2931 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:29:31:2931 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:29:31:2931 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:29:31:2931 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:29:44:2944 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:29:44:2944 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:29:44:2944 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:29:44:2944 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:29:44:2944 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:29:44:2944 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:30:08:308 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:30:08:308 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:30:08:308 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:30:08:308 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:30:08:308 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:30:08:308 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:32:01:321 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:32:01:321 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:32:02:322 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:32:02:322 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:32:02:322 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:32:17:3217 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:32:18:3218 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:32:18:3218 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:32:29:3229 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:32:29:3229 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:32:29:3229 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:32:48:3248 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:32:48:3248 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:32:48:3248 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:32:48:3248 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:32:48:3248 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:32:48:3248 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:39:07:397 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:39:07:397 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:39:07:397 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:39:07:397 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:39:07:397 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:39:07:397 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:45:22:4522 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:45:22:4522 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:45:22:4522 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:45:22:4522 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:45:22:4522 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:45:22:4522 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:54:52:5452 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:54:52:5452 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:54:52:5452 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:54:52:5452 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:54:52:5452 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:54:52:5452 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:59:55:5955 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 00:59:55:5955 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 00:59:55:5955 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 00:59:55:5955 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 00:59:55:5955 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 00:59:55:5955 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:03:03:33 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:03:03:33 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:03:03:33 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:03:03:33 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 01:03:03:33 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 01:03:03:33 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:05:19:519 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:05:19:519 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:05:19:519 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:05:19:519 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 01:05:19:519 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 01:05:19:519 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:10:41:1041 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:10:41:1041 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:10:41:1041 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:10:41:1041 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 01:10:41:1041 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 01:10:41:1041 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:11:17:1117 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:11:17:1117 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:11:17:1117 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:15:54:1554 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:15:54:1554 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:15:55:1555 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:15:55:1555 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 01:15:55:1555 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 01:15:55:1555 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:17:42:1742 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:17:42:1742 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:17:42:1742 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:18:29:1829 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:18:29:1829 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:18:29:1829 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:18:29:1829 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 01:18:29:1829 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 01:18:29:1829 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:23:10:2310 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:23:10:2310 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:23:10:2310 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:23:12:2312 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:23:12:2312 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:23:12:2312 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:24:27:2427 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:24:27:2427 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:24:27:2427 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:24:27:2427 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 01:24:27:2427 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 01:24:27:2427 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:24:31:2431 [31merror[39m: [31mError fetching student attendance: column admin.id does not exist[39m
+2025-03-28 01:24:31:2431 [31merror[39m: [31mError fetching student attendance: column admin.id does not exist[39m
+2025-03-28 01:27:55:2755 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:27:55:2755 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:27:55:2755 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:28:24:2824 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:28:24:2824 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:28:24:2824 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:28:24:2824 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 01:28:24:2824 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 01:28:24:2824 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:30:04:304 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:30:04:304 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:30:04:304 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:30:49:3049 [31merror[39m: [31mError fetching student attendance: column admin.id does not exist[39m
+2025-03-28 01:30:49:3049 [31merror[39m: [31mError fetching student attendance: column admin.id does not exist[39m
+2025-03-28 01:34:25:3425 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:34:25:3425 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:34:25:3425 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:34:44:3444 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:34:44:3444 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:34:44:3444 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:34:52:3452 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:34:52:3452 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:34:52:3452 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:36:32:3632 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:36:32:3632 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:36:32:3632 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:36:32:3632 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 01:36:32:3632 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 01:36:32:3632 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:39:23:3923 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:39:23:3923 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:39:23:3923 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:40:41:4041 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:40:41:4041 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:40:41:4041 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:40:41:4041 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 01:40:41:4041 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 01:40:41:4041 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:42:31:4231 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:42:31:4231 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:42:31:4231 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:42:31:4231 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 01:42:31:4231 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 01:42:31:4231 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:43:03:433 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:43:03:433 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:43:03:433 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:43:03:433 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 01:43:03:433 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 01:43:03:433 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:44:28:4428 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:44:28:4428 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:44:28:4428 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:44:35:4435 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:44:35:4435 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:44:35:4435 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:44:58:4458 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:44:58:4458 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:45:17:4517 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:45:17:4517 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:45:17:4517 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:45:41:4541 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:45:41:4541 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:45:41:4541 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:45:41:4541 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 01:45:41:4541 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 01:45:41:4541 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:46:39:4639 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:46:39:4639 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:46:39:4639 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:46:41:4641 [33mwarn[39m: [33mRoute not found: /api/api/students[39m
+2025-03-28 01:46:41:4641 [33mwarn[39m: [33mRoute not found: /api/api/students[39m
+2025-03-28 01:46:41:4641 [33mwarn[39m: [33mRoute not found: /api/api/students[39m
+2025-03-28 01:46:57:4657 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:46:57:4657 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:46:57:4657 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:47:41:4741 [33mwarn[39m: [33mRoute not found: /api/api/students[39m
+2025-03-28 01:48:30:4830 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:48:30:4830 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:48:30:4830 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:48:44:4844 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:48:44:4844 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:48:44:4844 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:49:15:4915 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:49:15:4915 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:49:15:4915 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:49:43:4943 [31merror[39m: [31mError fetching student attendance: column admin.id does not exist[39m
+2025-03-28 01:49:43:4943 [31merror[39m: [31mError fetching student attendance: column admin.id does not exist[39m
+2025-03-28 01:52:10:5210 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:52:10:5210 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:52:10:5210 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:52:37:5237 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:52:37:5237 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:52:37:5237 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:53:55:5355 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:53:55:5355 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:53:55:5355 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:53:55:5355 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:53:55:5355 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:53:55:5355 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:54:19:5419 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:54:19:5419 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:54:19:5419 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:54:42:5442 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:54:42:5442 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:54:42:5442 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:54:59:5459 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:55:00:550 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:55:00:550 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:55:22:5522 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:55:23:5523 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:55:23:5523 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:57:07:577 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:57:08:578 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:57:08:578 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:57:53:5753 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:57:53:5753 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:57:53:5753 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:59:20:5920 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:59:20:5920 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:59:20:5920 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 01:59:50:5950 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 01:59:50:5950 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 01:59:50:5950 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 02:00:20:020 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 02:00:20:020 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 02:00:20:020 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 02:01:30:130 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 02:01:30:130 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 02:01:30:130 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 02:01:59:159 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 02:01:59:159 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 02:01:59:159 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 02:02:20:220 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 02:02:20:220 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 02:02:20:220 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 02:03:33:333 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 02:03:33:333 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 02:03:33:333 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 02:03:33:333 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 02:03:33:333 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 02:03:33:333 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 02:06:16:616 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 02:06:16:616 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 02:06:16:616 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 02:07:26:726 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 02:07:26:726 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 02:07:26:726 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 02:08:05:85 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 02:08:05:85 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 02:08:05:85 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 02:08:05:85 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 02:08:05:85 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 02:08:05:85 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 02:08:24:824 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 02:08:24:824 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 02:08:24:824 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 02:14:46:1446 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 02:14:46:1446 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 02:14:46:1446 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 09:11:06:116 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 09:11:06:116 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 09:11:06:116 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 09:11:06:116 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 09:11:06:116 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 09:11:06:116 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 09:21:59:2159 [31merror[39m: [31mError fetching student attendance: column admin.id does not exist[39m
+2025-03-28 09:21:59:2159 [31merror[39m: [31mError fetching student attendance: column admin.id does not exist[39m
+2025-03-28 09:43:30:4330 [32minfo[39m: [32mGenerated new student ID: MVGR2025003[39m
+2025-03-28 13:01:24:124 [32minfo[39m: [32mStarting database migration[39m
+2025-03-28 13:01:25:125 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-03-28 13:01:25:125 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-03-28 13:01:25:125 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-03-28 13:01:25:125 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-28 13:01:25:125 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-04-02 11:59:27:5927 [32minfo[39m: [32mStarting database migration[39m
+2025-04-02 11:59:27:5927 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
+2025-04-02 11:59:27:5927 [32minfo[39m: [32mleave_type column already exists in leave_requests table[39m
+2025-04-02 11:59:27:5927 [32minfo[39m: [32mDatabase migration completed successfully[39m
+2025-04-02 11:59:27:5927 [32minfo[39m: [32mServer running on port 5000[39m
+2025-04-02 11:59:28:5928 [32minfo[39m: [32mSuccessfully connected to PostgreSQL database[39m
